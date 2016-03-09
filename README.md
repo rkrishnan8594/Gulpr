@@ -3,11 +3,11 @@ This is a simple, lightweight prototyping environment that I use for building si
 
 ## Features
 
-- **Handlebars**
-- **SCSS**
-- **Vanilla JS**
-- **npm**
-- **Gulp**
+- Handlebars
+- SCSS
+- Vanilla JS
+- npm
+- Gulp
 
 ## Setup
 1. ```npm install``` to get all the required dependencies.
