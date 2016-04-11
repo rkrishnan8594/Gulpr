@@ -5,7 +5,6 @@ This is a simple, lightweight prototyping environment that I use for building si
 
 - Handlebars
 - SCSS
-- Vanilla JS
 - npm
 - Gulp
 
